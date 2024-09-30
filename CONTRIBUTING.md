@@ -1,6 +1,10 @@
 # Contributing to Kotaemon
 
-Welcome to the Kotaemon project! We're thrilled that you're interested in contributing. Whether you're fixing bugs, adding new features, or improving documentation, your efforts are highly appreciated. This guide aims to help you get started with contributing to Kotaemon.
+Welcome 👋 to the Kotaemon project! We're thrilled that you're interested in contributing. Whether you're fixing bugs, adding new features, or improving documentation, your efforts are highly appreciated. This guide aims to help you get started with contributing to Kotaemon.
+
+<a href="https://github.com/Cinnamon/kotaemon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cinnamon/kotaemon" />
+</a>
 
 ### Table of Contents
 
